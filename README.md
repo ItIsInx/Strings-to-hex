@@ -1,3 +1,4 @@
-A little tool that converts and obfuscate strings in your file to Hex strings using dnlib library .
-Note don't expect so much from it so try to improve it by yourself .
-Credits : Inx#0308 & 0xd4d ( dnlib )
+A little tool that converts strings to hex strings using dnlib library .
+Credits
+Inx#0308
+dnlib 0xd4d
